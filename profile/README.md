@@ -1,7 +1,5 @@
 
 
-
-
 <p align="center">
   <img src="../assets/ChannelTrailergif.gif" alt="Channel Trailer" width="1000">
 </p>
@@ -38,8 +36,14 @@
   </a>
 </p>
 
-<br>
 
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sumedhpimplikar">
+    <img src="https://img.shields.io/badge/Buy%20Me%20an%20Apple-white?style=for-the-badge&logo=apple&logoColor=e63946&labelColor=white&color=white" alt="Buy Me an Apple">
+  </a>
+</p>
+
+<br>
 
 <p align="center">
   <img src="../assets/Some Notable Covers (1000 x 40 px).png" alt="Channel Trailer" width="1000">
@@ -102,5 +106,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Verified.+Certified.+Achieved.;Done+Exploring%3F;Do+Consider+Subscribing!;Simon+Says+Subscribe" alt="Typing SVG" />
 </p>
+
+
+
 
 

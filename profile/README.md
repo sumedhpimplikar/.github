@@ -43,6 +43,8 @@
   </a>
 </p>
 
+
+
 <br>
 
 <p align="center">
@@ -107,7 +109,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=FFFFFF&center=true&vCenter=true&width=800&lines=Verified.+Certified.+Achieved.;Done+Exploring%3F;Do+Consider+Subscribing!;Simon+Says+Subscribe" alt="Typing SVG" />
 </p>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumedhpimplikar&color=000000&label=Profile%20Views&style=for-the-badge" alt="Profile Views" width="200" height="40"/>
+</p>
 
 
 

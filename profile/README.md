@@ -23,7 +23,7 @@
 
 <p align="center">
 
-   <a href="https://github.com/YOUR_REPO/tabs">
+   <a href="https://github.com/sumedhpimplikar/free-tabs">
     <img src="https://img.shields.io/badge/FREE TABS-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=FFFFFF" alt="Tabs"/>
   </a>
   
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=FFFFFF&labelColor=FF0000&color=FF0000" alt="YouTube Channel"/>
   </a>
 
-  <a href="https://github.com/YOUR_REPO/tabs">
+  <a href="https://github.com/sumedhpimplikar/sheet-music">
     <img src="https://img.shields.io/badge/SHEET MUSIC-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=FFFFFF" alt="Tabs"/>
   </a>
 </p>

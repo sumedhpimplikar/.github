@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/ChannelTrailergif.gif" alt="Channel Trailer" width="1000">
+  <img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/ChannelTrailergif.gif" alt="Channel Trailer" width="1000">
 </p>
 
 <p align="center">
-  <img src="assets/banner-component-yt.png" alt="Banner" width="1000">
+  <img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/banner-component-yt.png" alt="Banner" width="1000">
 </p>
 
 <!-- TITLE with Animated Typing Effect -->
@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/ytlogofinal.png" alt="Channel Logo" width="100">
+  <img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/ytlogofinal.png" alt="Channel Logo" width="100">
 </p>
 
 <br>
@@ -40,50 +40,50 @@
 <br>
 
 <p align="center">
-  <img src="assets/Some Notable Covers (1000 x 40 px).png" alt="Section Divider" width="1000">
+  <img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/Some%20Notable%20Covers%20(1000%20x%2040%20px).png" alt="Section Divider" width="1000">
 </p>
 
 <table align="center">
   <tr>
-    <td><img src="assets/songposts/upscalemedia-transformed.png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Canon in D Yt post.png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Ave MariaYt post.png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/passacagliapost.png" alt="Banner" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/upscalemedia-transformed.png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Canon%20in%20D%20Yt%20post.png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Ave%20MariaYt%20post.png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/passacagliapost.png" width="1000"></td>
   </tr>
   <tr>
-    <td><img src="assets/songposts/Littleroot town Yt post.png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/waltz2.png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Pallet Town Yt post (1).png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Doraemon Yt post (2).jpg" alt="Banner" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Littleroot%20town%20Yt%20post.png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/waltz2.png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Pallet%20Town%20Yt%20post%20(1).png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Doraemon%20Yt%20post%20(2).jpg" width="1000"></td>
   </tr>
   <tr>
-    <td><img src="assets/songposts/upscalemedia-transformed (1).png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Adelita Yt post.jpg" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Ballade pour Adeline Yt post (1).png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Alag Aasmaan Yt post (1).png" alt="Banner" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/upscalemedia-transformed%20(1).png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Adelita%20Yt%20post.jpg" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Ballade%20pour%20Adeline%20Yt%20post%20(1).png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Alag%20Aasmaan%20Yt%20post%20(1).png" width="1000"></td>
   </tr>
   <tr>
-    <td><img src="assets/songposts/Experience Yt post (1).png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Lagrima Yt post.png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Natalia Yt post.png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Nocturne Yt post.png" alt="Banner" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Experience%20Yt%20post%20(1).png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Lagrima%20Yt%20post.png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Natalia%20Yt%20post.png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Nocturne%20Yt%20post.png" width="1000"></td>
   </tr>
   <tr>
-    <td><img src="assets/songposts/Victory.png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/spanish romance Yt post (1).png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/estudio in e minor post.jpg" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Can't help falling Yt post.png" alt="Banner" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Victory.png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/spanish%20romance%20Yt%20post%20(1).png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/estudio%20in%20e%20minor%20post.jpg" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Can't%20help%20falling%20Yt%20post.png" width="1000"></td>
   </tr>
   <tr>
-    <td><img src="assets/songposts/Entry of the Gladiators Yt post.jpg" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Moonlight Sonata Yt post.png" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/In the Hall of the Mountain King.jpg" alt="Banner" width="1000"></td>
-    <td><img src="assets/songposts/Mariage d’Amour Yt post.jpg" alt="Banner" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Entry%20of%20the%20Gladiators%20Yt%20post.jpg" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Moonlight%20Sonata%20Yt%20post.png" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/In%20the%20Hall%20of%20the%20Mountain%20King.jpg" width="1000"></td>
+    <td><img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/songposts/Mariage%20d%E2%80%99Amour%20Yt%20post.jpg" width="1000"></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="assets/Some Notable Covers (1000 x 40 px).png" alt="Section Divider" width="1000">
+  <img src="https://raw.githubusercontent.com/sumedhpimplikar/.github/main/profile/assets/Some%20Notable%20Covers%20(1000%20x%2040%20px).png" alt="Section Divider" width="1000">
 </p>
 
 <!-- YOUTUBE CALL TO ACTION -->

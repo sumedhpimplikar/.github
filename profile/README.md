@@ -1,13 +1,9 @@
-
-
 <p align="center">
-  <img src="../assets/ChannelTrailergif.gif" alt="Channel Trailer" width="1000">
+  <img src="assets/ChannelTrailergif.gif" alt="Channel Trailer" width="1000">
 </p>
 
 <p align="center">
-  
-  <img src="../assets/banner-component-yt.png" alt="Banner" width="1000">
-  
+  <img src="assets/banner-component-yt.png" alt="Banner" width="1000">
 </p>
 
 <!-- TITLE with Animated Typing Effect -->
@@ -16,13 +12,12 @@
 </p>
 
 <p align="center">
-  <img src="../assets/ytlogofinal.png" alt="Channel Trailer" width="100">
+  <img src="assets/ytlogofinal.png" alt="Channel Logo" width="100">
 </p>
 
 <br>
 
 <p align="center">
-
    <a href="https://github.com/sumedhpimplikar/free-tabs">
     <img src="https://img.shields.io/badge/FREE TABS-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=FFFFFF" alt="Tabs"/>
   </a>
@@ -32,10 +27,9 @@
   </a>
 
   <a href="https://github.com/sumedhpimplikar/sheet-music">
-    <img src="https://img.shields.io/badge/SHEET MUSIC-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=FFFFFF" alt="Tabs"/>
+    <img src="https://img.shields.io/badge/SHEET MUSIC-FFFFFF?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=FFFFFF" alt="Sheet Music"/>
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/sumedhpimplikar">
@@ -43,66 +37,54 @@
   </a>
 </p>
 
-
-
 <br>
 
 <p align="center">
-  <img src="../assets/Some Notable Covers (1000 x 40 px).png" alt="Channel Trailer" width="1000">
+  <img src="assets/Some Notable Covers (1000 x 40 px).png" alt="Section Divider" width="1000">
 </p>
 
-
 <table align="center">
-  
   <tr>
-    <td><img src="../assets/songposts/upscalemedia-transformed.png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Canon in D Yt post.png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Ave MariaYt post.png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/passacagliapost.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/upscalemedia-transformed.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Canon in D Yt post.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Ave MariaYt post.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/passacagliapost.png" alt="Banner" width="1000"></td>
   </tr>
-
-   <tr>
-    <td><img src="../assets/songposts/Littleroot town Yt post.png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/waltz2.png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Pallet Town Yt post (1).png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Doraemon Yt post (2).jpg" alt="Banner" width="1000"></td>
-  </tr>
-
-   <tr>
-    <td><img src="../assets/songposts/upscalemedia-transformed (1).png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Adelita Yt post.jpg" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Ballade pour Adeline Yt post (1).png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Alag Aasmaan Yt post (1).png" alt="Banner" width="1000"></td>
-  </tr>
-
   <tr>
-    <td><img src="../assets/songposts/Experience Yt post (1).png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Lagrima Yt post.png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Natalia Yt post.png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Nocturne Yt post.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Littleroot town Yt post.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/waltz2.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Pallet Town Yt post (1).png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Doraemon Yt post (2).jpg" alt="Banner" width="1000"></td>
   </tr>
-
   <tr>
-    <td><img src="../assets/songposts/Victory.png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/spanish romance Yt post (1).png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/estudio in e minor post.jpg" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Can't help falling Yt post.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/upscalemedia-transformed (1).png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Adelita Yt post.jpg" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Ballade pour Adeline Yt post (1).png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Alag Aasmaan Yt post (1).png" alt="Banner" width="1000"></td>
   </tr>
-
   <tr>
-    <td><img src="../assets/songposts/Entry of the Gladiators Yt post.jpg" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Moonlight Sonata Yt post.png" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/In the Hall of the Mountain King.jpg" alt="Banner" width="1000"></td>
-    <td><img src="../assets/songposts/Mariage d’Amour Yt post.jpg" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Experience Yt post (1).png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Lagrima Yt post.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Natalia Yt post.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Nocturne Yt post.png" alt="Banner" width="1000"></td>
   </tr>
-  
-  
+  <tr>
+    <td><img src="assets/songposts/Victory.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/spanish romance Yt post (1).png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/estudio in e minor post.jpg" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Can't help falling Yt post.png" alt="Banner" width="1000"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/songposts/Entry of the Gladiators Yt post.jpg" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Moonlight Sonata Yt post.png" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/In the Hall of the Mountain King.jpg" alt="Banner" width="1000"></td>
+    <td><img src="assets/songposts/Mariage d’Amour Yt post.jpg" alt="Banner" width="1000"></td>
+  </tr>
 </table>
 
 <p align="center">
-  <img src="../assets/Some Notable Covers (1000 x 40 px).png" alt="Channel Trailer" width="1000">
+  <img src="assets/Some Notable Covers (1000 x 40 px).png" alt="Section Divider" width="1000">
 </p>
-
 
 <!-- YOUTUBE CALL TO ACTION -->
 <p align="center">
@@ -112,6 +94,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sumedhpimplikar&color=000000&label=Profile%20Views&style=for-the-badge" alt="Profile Views" width="200" height="40"/>
 </p>
-
-
-
